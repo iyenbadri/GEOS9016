@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20210802</CreaDate><CreaTime>13300200</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20210802" Time="133002">RasterCalculator "18600 * "slope_spread3" * "fuel_sum2" *0.27777" "C:\Users\ellah\Downloads\GIS\GEOS9016\GEOS9016\fire model\firemodel_4"</Process></lineage></DataProperties></Esri></metadata>
