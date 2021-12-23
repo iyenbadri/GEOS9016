@@ -1,0 +1,62 @@
+List
+Database Project: COMP9311 0
+Neural Networks: COMP9444 1
+Customer Analytics Project: MARK5827 2
+Data warehousing Project: COMP9318 3
+GIS Project: GEOS9016 4
+IT Project: COMP9900 5
+Security Project: COMP9447 6
+PDP Project 
+
+
+Template:
+
+Project 1: Updating fintechnews.com (Fintech News Inc.) BackendDeveloper
+
+Duration: Three months
+
+Technologies Used: Python, PHP, Ruby, Javascript.
+
+- Created a content management system serving as a client interface that reduced download times by 30%.
+- Developed new admin panel, which improved internal operating efficiency by over 40%.
+- Created comprehensive testing regime using RSpec to ensure bug-free code.
+- Rebuilt entire website with up to date technologies and frameworks.
+
+________________________________________________________________________________________________________________
+
+
+Project 1: COVID-19 Case prediction (COMP9318)*
+Duration : One month
+Technologies Used: Python, Pandas, Scikit-Learn
+ - Analysed COVID-19 dataset for various days with daily conditions of temperature, wind speed, dew point and pressure as input parameters and extracted features for training dataset.
+ - Created an SVM Machine Learning model for analysing the time series of COVID-19 cases as a function of past COVID-19 cases and the weather conditions.
+ - Genearted a report based on tested model evaluations with supporting evidence to justfy the model and its features.
+ 
+Project 2: Rating Prediction (COMP9444)*******
+Duration : One month
+Technologies used: Python, Numpy, Pytorch
+ - Developed a pytorch program that learns to read product reviews in text format and predict an integer rating from 1 to 5 stars associated with each review.
+  
+Project 3: Site selection for Expansion of Smiths Lake field station (GEOS9016)
+Duration: Three Months 
+Technologies Used: ArcGIS
+ - Developed a consultancy report in a group of 3 for selection of site for the expansion project.
+ - Generated various models for each criteria of site selection; Soil Erosion model, Conservation Model, Building Model.
+ - Used open source datasets for various criteria such as Atlas of Living for Endangered Flora and Fauna, etc.
+ - Applied various concepts of GIS to develop DEM of the sites for the selection of candidate sites.
+ 
+ Project 4: Seek-Rats: Comprehensive Secret Detection solution
+ Duration: Three Months
+ Technologies Used: Python, Javascript, AWS Boto3/Lambda, Github, Jira, Pytest, Terraform
+  - Developed a comprehensive secrets detection tool in a group of 5 members.
+  - Solution developed could be used to plug in to an existing CI/CD Pipeline.
+  - Detection of secrets done at various stages to perform a comprehensive secret detection.
+  - Creation of an 'Allowlist' to store all false positives of secrets for cross verification later.
+  - Worked on developing a Pre-Commit Hook which scans commited code for any hard coded secrets which cross-verifies.
+  - Created comprehensive testing regime using Pytest to ensure bug-free code.
+  - Use of Jira for progress tracking and weekly checkins to ensure team progress.
+
+Project 5: Stockzen: A stock portfolio management webapp******
+Duration: Three Months
+Technologies Used: JIra, Github, Python, Javascript, Pytorch, 
+ 
